@@ -1,0 +1,8 @@
+.table__heading {
+  display: flex;
+  align-items: flex-start;
+  line-height: 1.15;
+  font-weight: 700;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
