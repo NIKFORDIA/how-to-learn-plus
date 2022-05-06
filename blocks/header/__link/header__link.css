@@ -2,8 +2,3 @@
   text-decoration: none;
   color: #2f80ed;
 }
-
-a:hover {
-  opacity: 0.7;
-  transition: 0.4s ease-out;
-}
