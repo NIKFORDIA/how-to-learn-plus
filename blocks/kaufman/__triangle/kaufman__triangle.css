@@ -4,4 +4,5 @@
   top: 0px;
   animation: rotation 20s linear infinite;
   z-index: -1;
+  overflow: hidden;
 }
