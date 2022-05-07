@@ -6,4 +6,7 @@ a.footer__column-link {
 .footer__column-link {
   display: flex;
   margin-bottom: 10px;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
 }
