@@ -3,7 +3,7 @@
   height: 38px;
 }
 
-a:hover {
+.resources__link:hover {
   opacity: 0.7;
   transition: 0.4s ease-out;
 }
